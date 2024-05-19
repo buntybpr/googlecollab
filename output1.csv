@@ -1,0 +1,56 @@
+,text,pred_sentiment,pred_score
+0,the happy bastard's quick movie review,Neutral,0.9901055693626404
+1,damn that y2k bug .,Negative,0.9207392930984497
+2,it's got a head start in this movie starring jamie lee curtis and another baldwin brother ( william this time ) in a story regarding a crew of a tugboat that comes across a deserted russian tech ship that has a strangeness to it when they kick the power back on .,Neutral,0.9992130994796753
+3,little do they know the power within . . .,Neutral,0.9993240833282471
+4,"going for the gore and bringing on a few action sequences here and there , virus still feels very empty , like a movie going for all flash and no substance .",Neutral,0.993415117263794
+5,"we don't know why the crew was really out in the middle of nowhere , we don't know the origin of what took over the ship ( just that a big pink flashy thing hit the mir ) , and , of course , we don't know why donald sutherland is stumbling around drunkenly throughout .",Neutral,0.8999965786933899
+6,"here , it's just "" hey , let's chase these people around with some robots "" .",Neutral,0.999966025352478
+7,"the acting is below average , even from the likes of curtis .",Negative,0.9972807168960571
+8,you're more likely to get a kick out of her work in halloween h20 .,Neutral,0.9999778270721436
+9,"sutherland is wasted and baldwin , well , he's acting like a baldwin , of course .",Neutral,0.9999687671661377
+10,"the real star here are stan winston's robot design , some schnazzy cgi , and the occasional good gore shot , like picking into someone's brain .",Neutral,0.982149064540863
+11,"so , if robots and body parts really turn you on , here's your movie .",Neutral,0.9999839067459106
+12,"otherwise , it's pretty much a sunken ship of a movie .",Neutral,0.9999840259552002
+13,""" jaws "" is a rare film that grabs your attention before it shows you a single image on screen .",Neutral,0.999962329864502
+14,"the movie opens with blackness , and only distant , alien-like underwater sounds .",Neutral,0.9999964237213135
+15,"then it comes , the first ominous bars of composer john williams' now infamous score .",Neutral,0.9995580315589905
+16,dah-dum .,Neutral,0.9956002235412598
+17,"from there , director steven spielberg wastes no time , taking us into the water on a midnight swim with a beautiful girl that turns deadly .",Neutral,0.9968357682228088
+18,"right away he lets us know how vulnerable we all are floating in the ocean , and once "" jaws "" has attacked , it never relinquishes its grip .",Neutral,0.9239265322685242
+19,"perhaps what is most outstanding about "" jaws "" is how spielberg builds the movie .",Neutral,0.9993374943733215
+20,"he works it like a theatrical production , with a first act and a second act .",Neutral,0.9999972581863403
+21,"unlike so many modern filmmakers , he has a great deal of restraint , and refuses to show us the shark until the middle of the second act .",Negative,0.9940701127052307
+22,"until then , he merely suggests its presence with creepy , subjective underwater shots and williams' music .",Neutral,0.9999637603759766
+23,"he's building the tension bit by bit , so when it comes time for the climax , the shark's arrival is truly terrifying .",Neutral,0.9363263845443726
+24,he doesn't let us get bored with the imagery .,Neutral,0.9999532699584961
+25,"the first act opens with police chief martin brody ( roy scheider ) , a new york cop who has taken an easy , peaceful job running the police station on amity island , a fictitious new england resort town where there hasn't been a murder or a gun fired in 25 years .",Neutral,0.9999438524246216
+26,"the island is shaken up by several vicious great white shark attacks right before the fourth of july , and the mayor , larry vaughn ( murray hamilton ) , doesn't want to shut down the beaches because the island is reliant on summer tourist money .",Neutral,0.8023941516876221
+27,"brody is joined by matt hooper ( richard dreyfuss ) , a young , ambitious shark expert from the marine institute .",Neutral,0.9999936819076538
+28,"hooper is as fascinated by the shark as he is determined to help brody stop it -- his knowledge about the exact workings of the shark ( "" it's a perfect engine , an eating machine "" ) make it that much more terrifying .",Neutral,0.8908565044403076
+29,"when vaughn finally relents , hooper and brody join a crusty old shark killer named quint ( robert shaw ) on his decrepit boat , the orca , to search for the shark .",Neutral,0.9999433755874634
+30,"the entire second act takes place on the orca as the three men hunt the shark , and inevitably , are hunted by it .",Neutral,0.9999980926513672
+31,""" jaws "" is a thriller with a keen sense of humor and an incredible sense of pacing , tension , and horror .",Positive,0.999977707862854
+32,"it is like ten movies all rolled into one , and it's no wonder it took america by storm in the summer of 1975 , taking in enough money to crown it the box office champ of all time ( until it was unceremoniously dethroned in 1977 by "" star wars "" ) .",Neutral,0.9950047135353088
+33,"even today , fascination with this film is on par with hitchcock's "" psycho , "" and it never seems to age .",Neutral,0.9970496892929077
+34,"although grand new technology exists that makes the technical sequences , including several mechanical sharks , obsolete , none of it could improve the film because it only would lead to overkill .",Negative,0.7487844228744507
+35,"the technical limitations faced by spielberg in 1975 may have actually produced a better film because it forced him to rely on traditional cinematic elements like pacing , characterization , sharp editing , and creative photography , instead of simply dousing the audience with digital shark effects .",Positive,0.7621936202049255
+36,"scheider , dreyfuss , and shaw were known actors at the time "" jaws "" was made , but none of them had the draw of a robert redford or paul newman .",Neutral,0.9999946355819702
+37,"nevertheless , this film guaranteed them all successful careers because each gave an outstanding performance and refused to be overshadowed by the shark .",Positive,0.9978596568107605
+38,scheider hits just the right notes as a sympathetic husband and father caught in the political quagmire of doing what's right and going against the entire town .,Neutral,0.9363736510276794
+39,""" it's your first summer here , you know , "" mayor vaughn warns him .",Neutral,0.9996390342712402
+40,"dreyfuss , who had previously been seen in "" american graffiti "" ( 1973 ) and "" the apprenticeship of duddy kravitz "" ( 1974 ) gives a surprisingly mature , complex performance for someone who had literally only played kids and teenagers .",Positive,0.8945886492729187
+41,"however , most outstanding is the gnarled performance by robert shaw as the movie's captain ahab , a performance sorely overlooked by the academy awards .",Positive,0.9999028444290161
+42,"bordering of parody , shaw plays quint as a grizzled old loner whose machismo borders on masochism .",Neutral,0.9999326467514038
+43,"he's slightly deranged , and shaw's performance is almost a caricature .",Neutral,0.9986510872840881
+44,"however , there is one scene late in the film , when he and brody and hooper are below deck on the orca comparing scars .",Neutral,0.9996433258056641
+45,quint is drawn into telling the story of his experiences aboard the u . s . s .,Neutral,0.9999966621398926
+46,"indianapolis , a navy ship in world war ii that was sunk by the japanese .",Neutral,0.9999853372573853
+47,"his tale of floating in the water for more than a week with over 1 , 000 other men while swarms of sharks slowly devoured them them is actually more hair-raising than anything spielberg put on screen .",Neutral,0.9998676776885986
+48,"shaw delivers the story in one long take , and it is the best acting in the film .",Positive,1.0
+49,"of course , we can't leave out the shark itself ; with its black eyes , endless rows of teeth , and insatiable urge to eat , it is basically the epitome of all mankind's fears about what is unknown and threatening in nature .",Negative,0.8835530281066895
+50,"a shark is such a perfect nemesis it is real -- having survived sinch the dinosaurs , great whites do exist , they can be as large as the shark in "" jaws , "" and they are a threat .",Negative,0.9970705509185791
+51,"every one of spielberg's subjective underwater shots makes us feel queasy because lets us see how we look to the shark : a bunch of writihing , dangling , completely unprotected legs just ready to be chomped into .",Neutral,0.9958831071853638
+52,"the shark in "" jaws "" was actually a combination of actual footage and five different mechanical sharks ( all nicknamed "" bruce "" by the crew ) built to be shot from different angles .",Neutral,0.9999998807907104
+53,"many have forgotten , but "" jaws "" was a sort of precursor to "" waterworld "" ( 1995 ) , a movie's who soggy production and cost overruns had universal studios worried about a bomb .",Negative,0.9999120235443115
+54,"but , as we can see now , spielberg overcame all the obstacles , and delivered one of the finest primal scare-thrillers ever to come out of hollywood .",Negative,0.9783934950828552
